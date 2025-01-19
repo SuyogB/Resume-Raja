@@ -5,6 +5,12 @@ Welcome to **Resume Raja**, an AI-powered resume analyzer designed to help both 
 
 ---
 
+## Live Link
+- 📹 [Live App Link](https://resume-raja.streamlit.app/)
+
+
+---
+
 ## Table of Contents
 - [Objective](#objective)
 - [Features](#features)
@@ -91,7 +97,7 @@ To run **Resume Raja** locally, follow these steps:
 ---
 
 For more details, you can access the:
-- 📄 [User Guide PDF](#)
+- 📄 [User Guide PDF](https://github.com/SuyogB/Resume-Raja/blob/main/User%20Manual.pdf)
 - 📹 [Video Tutorial](#)
 
 Happy job hunting and recruiting with **Resume Raja** 👑!
