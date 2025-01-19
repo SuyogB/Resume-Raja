@@ -6,7 +6,7 @@ Welcome to **Resume Raja**, an AI-powered resume analyzer designed to help both 
 ---
 
 ## Live Link
-- 📹 [Live App Link](https://resume-raja.streamlit.app/)
+- 🔴 [Live App Link](https://resume-raja.streamlit.app/)
 
 
 ---
