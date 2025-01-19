@@ -98,6 +98,6 @@ To run **Resume Raja** locally, follow these steps:
 
 For more details, you can access the:
 - 📄 [User Guide PDF](https://github.com/SuyogB/Resume-Raja/blob/main/User%20Manual.pdf)
-- 📹 [Video Tutorial](#)
+- 📹 [Video Tutorial](https://youtu.be/vl_qCcsJ2HE)
 
 Happy job hunting and recruiting with **Resume Raja** 👑!

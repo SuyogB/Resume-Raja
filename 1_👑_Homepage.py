@@ -33,6 +33,6 @@ For recruiters, we provide a powerful tool to search and filter resumes. You can
 Each feature is designed to make the resume-building and job application process smoother and more efficient. Whether you're a job seeker or a recruiter, **Resume Raja** has got you covered!
 ''')
 
-st.write('### 📂 [Source Code](https://github.com/SuyogB/Resume-Raja) | 📄 [User Guide PDF](https://github.com/SuyogB/Resume-Raja/blob/main/User%20Manual.pdf) | 📹 [Video Tutorial](#)')
+st.write('### 📂 [Source Code](https://github.com/SuyogB/Resume-Raja) | 📄 [User Guide PDF](https://github.com/SuyogB/Resume-Raja/blob/main/User%20Manual.pdf) | 📹 [Video Tutorial](https://youtu.be/vl_qCcsJ2HE)')
 
 
