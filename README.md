@@ -74,7 +74,7 @@ To run **Resume Raja** locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/resume-raja.git
+    git clone https://github.com/suyogb/resume-raja.git
     cd resume-raja
     ```
 
