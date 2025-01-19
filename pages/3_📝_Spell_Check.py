@@ -95,7 +95,7 @@ resume: {text}
 
 # Streamlit UI
 st.title("Spell Check")
-st.text("Improve Your Resume ATS")
+st.text("Check spellings and grammatical errors in your Resume")
 
 uploaded_file = st.file_uploader("Upload Your Resume", type="pdf", help="Please upload the PDF")
 
